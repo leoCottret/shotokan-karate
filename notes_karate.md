@@ -1,4 +1,3 @@
-[[notes_projects_2024]]
 # Annecy karaté Artys
 Full contact (FC), Tradi (T)
 - (FC) LUNDI 18h30 Gymnase BERTHOLLET (un peu + proche)
@@ -19,6 +18,7 @@ Full contact (FC), Tradi (T)
 	- faire entraînements comme ça https://youtu.be/6GNA72yp6CQ?t=171
 	- **PAR DÉFAUT LES BLOCAGES AU KARATE SE FONT DE PROFIL!!!**
 - pour passer bleu il faut apprendre jusqu'à GODAN
+
 # Katas
 - Ceintures et katas suggérés https://www.club-karate.fr/ceintures-karate.php
 - Taïkyoku (La cause première) Shodan https://youtu.be/3NoDtyMPDv4?t=518
