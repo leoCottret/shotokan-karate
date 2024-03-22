@@ -1,3 +1,4 @@
+[Version à jour](https://github.com/leoCottret/shotokan-karate/blob/main/notes_karate.md)
 # Annecy karaté Artys
 Full contact (FC), Tradi (T)
 - (FC) LUNDI 18h30 Gymnase BERTHOLLET (un peu + proche)
